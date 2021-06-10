@@ -1,0 +1,17 @@
+{
+  "name": "dddcqrs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eventric": "^0.26.0",
+    "eventric-remote-socketio-client": "^0.5.1",
+    "eventric-remote-socketio-endpoint": "^1.0.0",
+    "socket.io": "^4.1.2"
+  }
+}
